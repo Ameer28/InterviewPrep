@@ -345,3 +345,4 @@ function capitalizeLetters(str){
 // Challenge 5: Max Character
 // Return the character that is most common in a string
 // ex. maxCharacter('javascript') == 'a'
+
